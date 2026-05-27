@@ -133,8 +133,8 @@ Pedestrians        — 1.10%
 
 ![Output 1](Demo_Output/output1.png)
 ![Output 2](Demo_Output/output2.png)
-![Output 1](Demo_Output/output1.png)
-![Output 2](Demo_Output/output2.png)
+![Output 3](Demo_Output/output1.png)
+![Output 5](Demo_Output/output2.png)
 
 ## Project Structure
 Sign-Board-Categorization/
